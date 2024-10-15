@@ -1,0 +1,26 @@
+const images = {
+    plate1: require('./img/pngsushidraw1.png'),
+    plate2: require('./img/pngsushidraw2.png'),
+    plate3: require('./img/pngsushidraw3.png'),
+    dish1:  require('./img/plate1.png'),
+    dish2:  require('./img/plate2.png'),
+    dish3:  require('./img/plate3.png'),
+    dish4:  require('./img/plate4.png'),
+    dish5:  require('./img/plate5.png'),
+    dish6:  require('./img/plate6.png'),
+    brand: require('./img/sushi3.png'),
+    bag: require('./img/bag.png'),
+    user: require('./img/user.png'),
+    kanjis: require('./img/kanjis.png'),
+    bannerslider1: require('./img/vsimage1.jpg'),
+    bannerslider2: require('./img/vsimage2.jpg'),
+    bannerslider3: require('./img/vsimage3.jpg'),
+    bannerslider4: require('./img/vsimage4.jpg'),
+    dots: require('./img/bg dots.png'),
+    orangekanji: require('./img/寿司.png'),
+    sushibanner: require('./img/sushibanner.png'),
+    texture: require('./img/texture.jpg'),
+    vector: require('./img/Vector2.png'),
+}
+
+export default images
